@@ -1,4 +1,4 @@
-Hi 👋 My name is Grant Swanson
+Hello, my name is Grant Swanson
 ==============================
 
 Game Developer and Designer
@@ -8,10 +8,9 @@ I am studying computer science and creative writing at Santa Clara University wi
 
 *   🌍  I'm based in Santa Clara, CA
 *   ✉️  You can contact me at [gswaner77@gmail.com](mailto:gswaner77@gmail.com)
-*   🚀  I'm currently working on [Fang of Hisana](http://https://github.com/PaladinDigital117/Fang-of-Hisana)### Skills 
+*   🚀  I'm currently working on [Fang of Hisana](http://https://github.com/PaladinDigital117/Fang-of-Hisana)
+
+*   
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
                     </p>
-                    
-                  ### Socials
-                
