@@ -8,7 +8,7 @@ After starting my development journey in 2021 with the Unity Game Engine, I knew
 
 *   🌍  I'm based in Santa Clara, CA
 *   ✉️  You can contact me at [gswaner77@gmail.com](mailto:gswaner77@gmail.com)
-*   🚀  I'm currently working on [Fang of Hisana, a 2D boss rush game in a North African setting](http://https://github.com/PaladinDigital117/Fang-of-Hisana)
+*   🚀  I'm currently working on [Fang of Hisana, a 2D boss rush game in a North African-inspired setting](http://https://github.com/PaladinDigital117/Fang-of-Hisana)
   <br>
    Skills 
 <p align="left">
