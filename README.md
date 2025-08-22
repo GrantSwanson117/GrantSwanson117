@@ -7,7 +7,7 @@ Game Developer and Designer
 After starting my development journey in 2021 with the Unity Game Engine, I knew I wanted to perfect my craft at creating a player-driven digital experience that invokes excitement through gameplay and emotion through impactful storytelling.
 
 *   🌍  I'm based in Santa Clara, CA
-*   ✉️  You can contact me at [gswaner77@gmail.com](mailto:gswaner77@gmail.com)
+*   ✉️  You can contact me at [grantswanson62@gmail.com](mailto:grantswanson62@gmail.com)
 *   🚀  I'm currently working on [Fang of Hisana, a 2D boss rush game in a North African-inspired setting](http://https://github.com/PaladinDigital117/Fang-of-Hisana)
   <br>
    Skills 
